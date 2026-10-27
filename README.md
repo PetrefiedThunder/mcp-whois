@@ -46,4 +46,4 @@ npx mcp-whois
 
 ## License
 
-MIT
+Apache-2.0
